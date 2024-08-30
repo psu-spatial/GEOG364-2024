@@ -1,6 +1,6 @@
-# Welcome!
+v# Welcome!
 
-This is the lab book for GEOG-462 (FA2024) on spatial analysis.
+This is the lab book for GEOG364 (FA2024) on spatial analysis.
 
 The course is taught by [Dr Helen Greatrex](https://science.psu.edu/stat/people/hlg5155) at Penn State.
 
