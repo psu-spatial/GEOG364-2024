@@ -1,4 +1,4 @@
-v# Welcome!
+# Welcome!
 
 This is the lab book for GEOG364 (FA2024) on spatial analysis.
 
